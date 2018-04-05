@@ -1,2 +1,2 @@
 welcome to git
-hello Github
+hello Git
